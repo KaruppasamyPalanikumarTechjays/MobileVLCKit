@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "mobilevlckit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/instaply/MobileVLCKit.git",
+      "state" : {
+        "revision" : "17e613ea42cb5d7abe94194454e54e1aeac27d6b",
+        "version" : "3.4.0"
+      }
+    }
+  ],
+  "version" : 2
+}
